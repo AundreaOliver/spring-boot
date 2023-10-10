@@ -1,0 +1,1 @@
+insert into GADGET values (1,2022,'Apple');
